@@ -21,7 +21,7 @@
 
 ### 好消息
 - 博客笔记大汇总【16年3月到至今】，包括Java基础及深入知识点，Android技术博客，Python学习笔记等等，还包括平时开发中遇到的bug汇总，当然也在工作之余收集了大量的面试题，长期更新维护并且修正，持续完善……开源的文件是markdown格式的！同时也开源了生活博客，从12年起，积累共计N篇[近100万字，陆续搬到网上]，转载请注明出处，谢谢！
-- **链接地址：https://github.com/yangchong211/YCBlogs**
+- **链接地址：https://github.com/wangshijun0012/YCBlogs**
 - 如果觉得好，可以star一下，谢谢！当然也欢迎提出建议或者问题，万事起于忽微，量变引起质变！
 - 重点推荐：
     - [关于未来需求](https://zhuanlan.zhihu.com/p/30345990)，可能值得我们这些小伙子思考……
@@ -33,7 +33,7 @@
 
 
 
-### [01.Java博客大汇总](https://github.com/yangchong211/YCBlogs/blob/master/blog/01.Java%E5%8D%9A%E5%AE%A2%E5%A4%A7%E6%B1%87%E6%80%BB.md)
+### [01.Java博客大汇总](https://github.com/wangshijun0012/YCBlogs/blob/master/blog/01.Java%E5%8D%9A%E5%AE%A2%E5%A4%A7%E6%B1%87%E6%80%BB.md)
 - 01.Java基础[30篇]
 - 02.面向对象[15篇]
 - 03.数据结构[27篇]
@@ -47,11 +47,11 @@
 - 11.枚举与注解[10篇]
 - 12.设计模式[8篇]
 - 13.Java深入[8篇]
-- **阅读更多请点击：[Java博客汇总](https://github.com/yangchong211/YCBlogs/blob/master/blog/01.Java%E5%8D%9A%E5%AE%A2%E5%A4%A7%E6%B1%87%E6%80%BB.md)**
+- **阅读更多请点击：[Java博客汇总](https://github.com/wangshijun0012/YCBlogs/blob/master/blog/01.Java%E5%8D%9A%E5%AE%A2%E5%A4%A7%E6%B1%87%E6%80%BB.md)**
 
 
 
-### [02.Android博客大汇总](https://github.com/yangchong211/YCBlogs/blob/master/blog/02.Android%E5%8D%9A%E5%AE%A2%E5%A4%A7%E6%B1%87%E6%80%BB.md)
+### [02.Android博客大汇总](https://github.com/wangshijun0012/YCBlogs/blob/master/blog/02.Android%E5%8D%9A%E5%AE%A2%E5%A4%A7%E6%B1%87%E6%80%BB.md)
 - 01.基础组件(9篇)
 - 02.IPC机制(7篇)
 - 03.View原理(9篇)
@@ -78,42 +78,42 @@
 - 25.RecyclerView(31篇)
 - 26.组件化(7篇)
 - 27.路由框架(7篇)
-- **阅读更多请点击：[Android博客大汇总](https://github.com/yangchong211/YCBlogs/blob/master/blog/02.Android%E5%8D%9A%E5%AE%A2%E5%A4%A7%E6%B1%87%E6%80%BB.md)**
+- **阅读更多请点击：[Android博客大汇总](https://github.com/wangshijun0012/YCBlogs/blob/master/blog/02.Android%E5%8D%9A%E5%AE%A2%E5%A4%A7%E6%B1%87%E6%80%BB.md)**
 
 
 
-### [03.开源项目推荐](https://github.com/yangchong211/YCBlogs/blob/master/blog/03.%E5%BC%80%E6%BA%90%E9%A1%B9%E7%9B%AE%E6%8E%A8%E8%8D%90.md)
-- [1.开源博客汇总](https://github.com/yangchong211/YCBlogs)
-- [2.组件化实践项目](https://github.com/yangchong211/LifeHelper)
-- [3.视频播放器封装库](https://github.com/yangchong211/YCVideoPlayer)
-- [4.状态切换管理器封装库](https://github.com/yangchong211/YCStateLayout)
-- [5.复杂RecyclerView封装库](https://github.com/yangchong211/YCRefreshView)
-- [6.弹窗封装库](https://github.com/yangchong211/YCDialog)
-- [7.版本更新封装库](https://github.com/yangchong211/YCUpdateApp)
-- [8.状态栏封装库](https://github.com/yangchong211/YCStatusBar)
-- [9.轻量级线程池封装库](https://github.com/yangchong211/YCThreadPool)
-- [10.轮播图封装库](https://github.com/yangchong211/YCBanner)
-- [11.音频播放器](https://github.com/yangchong211/YCAudioPlayer)
-- [12.画廊与图片缩放控件](https://github.com/yangchong211/YCGallery)
-- [13.Python多渠道打包](https://github.com/yangchong211/YCWalleHelper)
-- [14.整体侧滑动画封装库](https://github.com/yangchong211/YCSlideView)
-- [15.Python爬虫妹子图](https://github.com/yangchong211/YCMeiZiTu)
-- [17.自定义进度条](https://github.com/yangchong211/YCProgress)
-- [18.自定义折叠和展开布局](https://github.com/yangchong211/YCExpandView)
-- [19.商品详情页分页加载](https://github.com/yangchong211/YCShopDetailLayout)
-- [20.在任意View控件上设置红点控件](https://github.com/yangchong211/YCRedDotView)
-- [21.仿抖音一次滑动一个页面播放视频库](https://github.com/yangchong211/YCScrollPager)
+### [03.开源项目推荐](https://github.com/wangshijun0012/YCBlogs/blob/master/blog/03.%E5%BC%80%E6%BA%90%E9%A1%B9%E7%9B%AE%E6%8E%A8%E8%8D%90.md)
+- [1.开源博客汇总](https://github.com/wangshijun0012/YCBlogs)
+- [2.组件化实践项目](https://github.com/wangshijun0012/LifeHelper)
+- [3.视频播放器封装库](https://github.com/wangshijun0012/YCVideoPlayer)
+- [4.状态切换管理器封装库](https://github.com/wangshijun0012/YCStateLayout)
+- [5.复杂RecyclerView封装库](https://github.com/wangshijun0012/YCRefreshView)
+- [6.弹窗封装库](https://github.com/wangshijun0012/YCDialog)
+- [7.版本更新封装库](https://github.com/wangshijun0012/YCUpdateApp)
+- [8.状态栏封装库](https://github.com/wangshijun0012/YCStatusBar)
+- [9.轻量级线程池封装库](https://github.com/wangshijun0012/YCThreadPool)
+- [10.轮播图封装库](https://github.com/wangshijun0012/YCBanner)
+- [11.音频播放器](https://github.com/wangshijun0012/YCAudioPlayer)
+- [12.画廊与图片缩放控件](https://github.com/wangshijun0012/YCGallery)
+- [13.Python多渠道打包](https://github.com/wangshijun0012/YCWalleHelper)
+- [14.整体侧滑动画封装库](https://github.com/wangshijun0012/YCSlideView)
+- [15.Python爬虫妹子图](https://github.com/wangshijun0012/YCMeiZiTu)
+- [17.自定义进度条](https://github.com/wangshijun0012/YCProgress)
+- [18.自定义折叠和展开布局](https://github.com/wangshijun0012/YCExpandView)
+- [19.商品详情页分页加载](https://github.com/wangshijun0012/YCShopDetailLayout)
+- [20.在任意View控件上设置红点控件](https://github.com/wangshijun0012/YCRedDotView)
+- [21.仿抖音一次滑动一个页面播放视频库](https://github.com/wangshijun0012/YCScrollPager)
 
 
 
 
-### [04.bug分析大汇总](https://github.com/yangchong211/YCBlogs/blob/master/blog/04.Bug%E9%97%AE%E9%A2%98%E5%A4%A7%E6%B1%87%E6%80%BB.md)
-- 汇总了实际开发中遇到的bug，包括错位日志，如何分析问题，解决问题，出现bug的场景等等。详细请点击：[bug分析大汇总](https://github.com/yangchong211/YCBlogs/blob/master/blog/04.Bug%E9%97%AE%E9%A2%98%E5%A4%A7%E6%B1%87%E6%80%BB.md)
+### [04.bug分析大汇总](https://github.com/wangshijun0012/YCBlogs/blob/master/blog/04.Bug%E9%97%AE%E9%A2%98%E5%A4%A7%E6%B1%87%E6%80%BB.md)
+- 汇总了实际开发中遇到的bug，包括错位日志，如何分析问题，解决问题，出现bug的场景等等。详细请点击：[bug分析大汇总](https://github.com/wangshijun0012/YCBlogs/blob/master/blog/04.Bug%E9%97%AE%E9%A2%98%E5%A4%A7%E6%B1%87%E6%80%BB.md)
 
 
 
-### [05.技术问题整理](https://github.com/yangchong211/YCBlogs/blob/master/blog/05.%E6%8A%80%E6%9C%AF%E9%97%AE%E9%A2%98%E6%B1%87%E6%80%BB.md)
-#### 5.1 [01.Java问题大整理](https://github.com/yangchong211/YCBlogs/blob/master/blog/12.Java%E9%97%AE%E9%A2%98%E5%A4%A7%E6%B1%87%E6%80%BB.md)
+### [05.技术问题整理](https://github.com/wangshijun0012/YCBlogs/blob/master/blog/05.%E6%8A%80%E6%9C%AF%E9%97%AE%E9%A2%98%E6%B1%87%E6%80%BB.md)
+#### 5.1 [01.Java问题大整理](https://github.com/wangshijun0012/YCBlogs/blob/master/blog/12.Java%E9%97%AE%E9%A2%98%E5%A4%A7%E6%B1%87%E6%80%BB.md)
 - [01.Java基础问题(19个)](https://juejin.im/post/5c209718e51d451be35e3e70)
 - [02.Java面向对象问题(10个)](https://juejin.im/post/5c209ae46fb9a049e12a382a)
 - [03.Java数据结构问题(20个)](https://juejin.im/post/5c20bbb7e51d4549ef17baac)
@@ -126,7 +126,7 @@
 
 
 
-#### 5.2 [02.Android问题大整理](https://github.com/yangchong211/YCBlogs/blob/master/blog/05.%E6%8A%80%E6%9C%AF%E9%97%AE%E9%A2%98%E6%B1%87%E6%80%BB.md)
+#### 5.2 [02.Android问题大整理](https://github.com/wangshijun0012/YCBlogs/blob/master/blog/05.%E6%8A%80%E6%9C%AF%E9%97%AE%E9%A2%98%E6%B1%87%E6%80%BB.md)
 - [01.Android之基础组件问题(43个)](https://juejin.im/post/5c32dea5f265da616c65c413)
 - [02.Android之IPC机制问题(10个)](https://juejin.im/post/5c32dfb5f265da616b10dd6f)
 - [03.Android之View原理问题(15个)](https://juejin.im/post/5c3430656fb9a049fa0fee42)
@@ -137,12 +137,12 @@
 - [10.Android之Window问题(23个)](https://juejin.im/post/5cd28407518825358e2e271c)
 - [13.Android之注解问题(10个)](https://juejin.im/post/5c665c5ae51d450e675331c0)
 - [25.Android之RecyclerView问题(26个)](https://juejin.im/post/5cce410551882541e40e471d)
-- **阅读更多请点击：[技术问题整理](https://github.com/yangchong211/YCBlogs/blob/master/blog/05.%E6%8A%80%E6%9C%AF%E9%97%AE%E9%A2%98%E6%B1%87%E6%80%BB.md)**
+- **阅读更多请点击：[技术问题整理](https://github.com/wangshijun0012/YCBlogs/blob/master/blog/05.%E6%8A%80%E6%9C%AF%E9%97%AE%E9%A2%98%E6%B1%87%E6%80%BB.md)**
 
 
 
 
-### [06.数据与算法](https://github.com/yangchong211/YCBlogs/blob/master/blog/06.%E7%AE%97%E6%B3%95%E5%A4%A7%E6%B1%87%E6%80%BB.md)
+### [06.数据与算法](https://github.com/wangshijun0012/YCBlogs/blob/master/blog/06.%E7%AE%97%E6%B3%95%E5%A4%A7%E6%B1%87%E6%80%BB.md)
 - 01.递归和回溯
 - 02.栈
 - 03.链表
@@ -154,10 +154,10 @@
 - 09.散列
 - 10.字符串
 - 11.数组
-- **阅读更多请点击：[算法](https://github.com/yangchong211/YCBlogs/blob/master/blog/06.%E7%AE%97%E6%B3%95%E5%A4%A7%E6%B1%87%E6%80%BB.md)**
+- **阅读更多请点击：[算法](https://github.com/wangshijun0012/YCBlogs/blob/master/blog/06.%E7%AE%97%E6%B3%95%E5%A4%A7%E6%B1%87%E6%80%BB.md)**
 
 
-### [08.Kotlin学习笔记](https://github.com/yangchong211/YCBlogs/blob/master/blog/08.Kotlin%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0.md)
+### [08.Kotlin学习笔记](https://github.com/wangshijun0012/YCBlogs/blob/master/blog/08.Kotlin%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0.md)
 - 01.Kotlin基础语法[4篇]
 - 02.Kotlin面向对象[5篇]
 - 03.Kotlin其他知识点[18篇]
@@ -165,7 +165,7 @@
 
 
 
-### [09.生活博客汇总](https://github.com/yangchong211/YCBlogs/blob/master/blog/09.%E7%94%9F%E6%B4%BB%E5%8D%9A%E5%AE%A2%E6%B1%87%E6%80%BB.md)
+### [09.生活博客汇总](https://github.com/wangshijun0012/YCBlogs/blob/master/blog/09.%E7%94%9F%E6%B4%BB%E5%8D%9A%E5%AE%A2%E6%B1%87%E6%80%BB.md)
 - [01.关于写博客的初衷](https://zhuanlan.zhihu.com/p/27659509)
 - [02.关于生活中思考](https://zhuanlan.zhihu.com/p/27765832)
 - [03.关于小时候的回忆](https://zhuanlan.zhihu.com/p/28190479)
@@ -224,15 +224,15 @@
 - [56.关于生活聚会](https://zhuanlan.zhihu.com/p/77101294)
 - [57.关于爱与自由](https://zhuanlan.zhihu.com/p/77603015)
 - [58.关于财务平衡](https://zhuanlan.zhihu.com/p/79292905)
-- **关于生活博客更多内容，可以直接看：[生活博客汇总](https://github.com/yangchong211/YCBlogs/blob/master/blog/09.%E7%94%9F%E6%B4%BB%E5%8D%9A%E5%AE%A2%E6%B1%87%E6%80%BB.md)**
+- **关于生活博客更多内容，可以直接看：[生活博客汇总](https://github.com/wangshijun0012/YCBlogs/blob/master/blog/09.%E7%94%9F%E6%B4%BB%E5%8D%9A%E5%AE%A2%E6%B1%87%E6%80%BB.md)**
 
 
-### [10.喜马拉雅汇总](https://github.com/yangchong211/YCBlogs/blob/master/blog/10.%E5%96%9C%E9%A9%AC%E6%8B%89%E9%9B%85%E6%B1%87%E6%80%BB.md)
-- 更多可以看：[喜马拉雅汇总](https://github.com/yangchong211/YCBlogs/blob/master/blog/10.%E5%96%9C%E9%A9%AC%E6%8B%89%E9%9B%85%E6%B1%87%E6%80%BB.md)
+### [10.喜马拉雅汇总](https://github.com/wangshijun0012/YCBlogs/blob/master/blog/10.%E5%96%9C%E9%A9%AC%E6%8B%89%E9%9B%85%E6%B1%87%E6%80%BB.md)
+- 更多可以看：[喜马拉雅汇总](https://github.com/wangshijun0012/YCBlogs/blob/master/blog/10.%E5%96%9C%E9%A9%AC%E6%8B%89%E9%9B%85%E6%B1%87%E6%80%BB.md)
 
 
 
-### [11.知识问答汇总](https://github.com/yangchong211/YCBlogs/blob/master/blog/11.%E7%9F%A5%E8%AF%86%E7%AC%94%E8%AE%B0%E6%B1%87%E6%80%BB.md)
+### [11.知识问答汇总](https://github.com/wangshijun0012/YCBlogs/blob/master/blog/11.%E7%9F%A5%E8%AF%86%E7%AC%94%E8%AE%B0%E6%B1%87%E6%80%BB.md)
 - 0.1 工作心得[31篇]
 - 0.2 古典诗词[10篇]
 - 0.3 历史问题[127篇]
@@ -247,12 +247,12 @@
 - 1.2 艰苦奋斗[16篇]
 - 1.4 社会问题[19篇]
 - 1.5 技术博客[216篇]
-- 更多内容可以看：[知识问答汇总](https://github.com/yangchong211/YCBlogs/blob/master/blog/11.%E7%9F%A5%E8%AF%86%E7%AC%94%E8%AE%B0%E6%B1%87%E6%80%BB.md)
+- 更多内容可以看：[知识问答汇总](https://github.com/wangshijun0012/YCBlogs/blob/master/blog/11.%E7%9F%A5%E8%AF%86%E7%AC%94%E8%AE%B0%E6%B1%87%E6%80%BB.md)
 
 
 
 ### [12.Flutter博客汇总]()
-- 这段时间在学习flutter，并且业余时间完成了flutter版本的wanAndroid客户端，感兴趣朋友可以看：[flutter版本的wanAndroid客户端](https://github.com/yangchong211/ycflutter)
+- 这段时间在学习flutter，并且业余时间完成了flutter版本的wanAndroid客户端，感兴趣朋友可以看：[flutter版本的wanAndroid客户端](https://github.com/wangshijun0012/ycflutter)
 - 01.基础笔记
 - 02.基础控件
 - 03.复杂控件
@@ -272,7 +272,7 @@
 
 
 
-### [13.网络协议汇总](https://github.com/yangchong211/YCBlogs/blob/master/blog/13.%E7%BD%91%E7%BB%9C%E5%8D%8F%E8%AE%AE%E6%B1%87%E6%80%BB.md)
+### [13.网络协议汇总](https://github.com/wangshijun0012/YCBlogs/blob/master/blog/13.%E7%BD%91%E7%BB%9C%E5%8D%8F%E8%AE%AE%E6%B1%87%E6%80%BB.md)
 - 01.计算机基础[3篇]
 - 02.网络基础[13篇]
 - 03.TCP和UDP[11篇]
@@ -281,7 +281,7 @@
 - 06.Https详解[5篇]
 - 07.其他协议
 - 08.Web攻击
-- 更多内容可以看：[网络协议汇总](https://github.com/yangchong211/YCBlogs/blob/master/blog/13.%E7%BD%91%E7%BB%9C%E5%8D%8F%E8%AE%AE%E6%B1%87%E6%80%BB.md)
+- 更多内容可以看：[网络协议汇总](https://github.com/wangshijun0012/YCBlogs/blob/master/blog/13.%E7%BD%91%E7%BB%9C%E5%8D%8F%E8%AE%AE%E6%B1%87%E6%80%BB.md)
 
 
 
@@ -300,14 +300,14 @@
 
 
 #### 02.关于我的博客
-- github：https://github.com/yangchong211
+- github：https://github.com/wangshijun0012
 - 知乎：https://www.zhihu.com/people/yczbj/activities
 - 简书：http://www.jianshu.com/u/b7b2c6ed9284
 - csdn：http://my.csdn.net/m0_37700275
 - 喜马拉雅听书：http://www.ximalaya.com/zhubo/71989305/
 - 开源中国：https://my.oschina.net/zbj1618/blog
 - 泡在网上的日子：http://www.jcodecraeer.com/member/content_list.php?channelid=1
-- 邮箱：yangchong211@163.com
+- 邮箱：wangshijun0012@163.com
 - segmentfault头条：https://segmentfault.com/u/xiangjianyu/articles
 - 掘金：https://juejin.im/user/5939433efe88c2006afa0c6e
 - 博客园：https://www.cnblogs.com/yc211
@@ -321,7 +321,7 @@
 
 
 #### 04.关于书籍推荐
-- [关于书籍推荐链接](https://github.com/yangchong211/YCBlogs/blob/master/blog/16.%E5%85%B3%E4%BA%8E%E4%B9%A6%E7%B1%8D%E6%8E%A8%E8%8D%90.md)
+- [关于书籍推荐链接](https://github.com/wangshijun0012/YCBlogs/blob/master/blog/16.%E5%85%B3%E4%BA%8E%E4%B9%A6%E7%B1%8D%E6%8E%A8%E8%8D%90.md)
     - 1.Java方面书籍
     - 2.Android方法书籍
     - 3.网络协议书籍
